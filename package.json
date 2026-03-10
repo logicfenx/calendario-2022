@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/calendario-2022",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a calendario-2022",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/calendario-2022.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/calendario-2022/"
+    },
+    "homepage": "https://bitcu.co/calendario-2022/"
+}
